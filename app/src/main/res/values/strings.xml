@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Bmi_CamiloVelasco</string>
+    <string name="Esperandorespuesta">Esperandorespuesta</string>
+    <string name="Esperandoresultado">Esperandoresultado</string>
+    <string name="Estatura">Estatura</string>
+    <string name="Peso">Peso</string>
+    <string name="Calculo">Calculate</string>
+    <string name="TienesDelgadezSeveraSeRecomiendaSubirDePeso">TienesDelgadezSeveraSeRecomiendaSubirDePeso</string>
+    <string name="delgadez">Tienes delgadez severa, se recomienda subir de peso</string>
+    <string name="obesidad">Tienes obesidad mórbida, se recomienda consultar un médico</string>
+    <string name="dm">Tienes delgadez moderada, se recomienda llevar una dieta sana</string>
+    <string name="dl">Tienes delgadez Leve, se recomienda una dieta sana</string>
+    <string name="feliz">Tienes peso normal, ¡ Felicidades!</string>
+    <string name="preobe">Tienes Preobesidad, Cuidado!</string>
+    <string name="ol">Tienes obesidad leve, debes llevar una dieta saludable</string>
+    <string name="om">Tienes obesidad media se recomienda bajar de peso moderadamente</string>
+    <string name="Desarrollador">Desarrollador</string>
+
+
+</resources>

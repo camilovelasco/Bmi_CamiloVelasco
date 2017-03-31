@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Peso">Weith</string>
+    <string name="Estatura">Height</string>
+    <string name="Desarrollador">Developer</string>
+
+
+    <string name="Esperandorespuesta">Waiting</string>
+    <string name="Esperandoresultado">Waiting for Calculate</string>
+    <string name="Calculo">Calculate</string>
+    <string name="TienesDelgadezSeveraSeRecomiendaSubirDePeso">You are very thin, Eat more</string>
+    <string name="app_name">Bmi_CamiloVelasco</string>
+
+    <string name="delgadez">You have severe thinness, it is recommended to gain weight</string>
+    <string name="obesidad">You have morbid obesity, it is recommended to lose weight</string>
+    <string name="dm">You have morbid thinness, it is recommended to gain weight</string>
+    <string name="dl">You have leve thinness, it is recommended to gain weight, go to the doctor</string>
+    <string name="feliz">CONGRATS! your weight is normal</string>
+    <string name="preobe">Becareful! you have pre-obesity!!!</string>
+    <string name="ol">Becareful! you have a lil of obesity</string>
+    <string name="om">Becareful! you have med obesity</string>
+
+</resources>
